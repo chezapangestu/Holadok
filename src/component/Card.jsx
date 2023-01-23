@@ -3,7 +3,7 @@ import { FaQuoteRight } from "react-icons/fa";
 
 export default function Card(){
     return(
-        <div className="w-80 absolute top-[200px] right-[700px] z-40 bg-white rounded-2xl shadow-xl px-5 py-6">
+        <div className="w-80 absolute top-[235px] right-[700px] z-40 bg-white rounded-2xl shadow-xl px-5 py-6">
               <div className="flex items-center justify-between">
                 <img className="h-8" src={Ellipse} alt="avatar"></img>
                 <p className="font-sans font-semibold text-xs ml-3">Jane Doe</p>

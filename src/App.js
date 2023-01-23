@@ -36,7 +36,7 @@ function App() {
             <Card />
           </div>
           <div className="w-5/12">
-            <img className="absolute z-10 h-[830px] right-[200px] top-20" src={Doctor} alt="rectangle" />
+            <img className="absolute z-10 h-[830px] right-[250px] top-20" src={Doctor} alt="rectangle" />
           </div>
         </div>
         <div className="w-full">
