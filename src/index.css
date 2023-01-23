@@ -1,3 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Source+Sans+Pro:wght@400;600;700&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +17,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.rectangle-1{
+  position: absolute;
+  width: 590px;
+  height: 847px;
+  left: 764px;
+  top: 18px;
+
+  background: #9BEAE0;
+}
+
+/* image 1 */
+
+/* position: absolute;
+width: 530px;
+height: 794px;
+left: 1350px;
+top: 71px;
+
+background: url(image.png);
+transform: matrix(-1, 0, 0, 1, 0, 0); */
