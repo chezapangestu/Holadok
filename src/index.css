@@ -19,23 +19,3 @@ code {
 }
 
 
-.rectangle-1{
-  position: absolute;
-  width: 590px;
-  height: 847px;
-  left: 764px;
-  top: 18px;
-
-  background: #9BEAE0;
-}
-
-/* image 1 */
-
-/* position: absolute;
-width: 530px;
-height: 794px;
-left: 1350px;
-top: 71px;
-
-background: url(image.png);
-transform: matrix(-1, 0, 0, 1, 0, 0); */

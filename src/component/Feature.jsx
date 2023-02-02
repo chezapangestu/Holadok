@@ -5,7 +5,7 @@ import { TbDeviceComputerCamera } from "react-icons/tb";
 
 export default function Feature(){
     return(
-        <div className="flex bg-purple-400 relative z-50 p-10">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 bg-purple-400 z-50 p-10">
             <div className="flex justify-center">  
               <div className="w-16">
                 <RxCalendar size={40} color="lightgray" />
